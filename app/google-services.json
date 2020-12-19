@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "1088195371052",
+    "firebase_url": "https://datastorage-b7811.firebaseio.com",
+    "project_id": "datastorage-b7811",
+    "storage_bucket": "datastorage-b7811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088195371052:android:a8670db6325acb5c65f189",
+        "android_client_info": {
+          "package_name": "com.example.houser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088195371052-cnfiqhungnhj74ldgpfvag6am53nc22q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.houser",
+            "certificate_hash": "63e8123e161aec0844f8964a6a4429338b0d2720"
+          }
+        },
+        {
+          "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gfs39I4soH3EvfACoSNGSOYajqnaYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088195371052:android:1b82f64afd5b986465f189",
+        "android_client_info": {
+          "package_name": "com.example.loginphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088195371052-rv0uh514acvued1tn88q4f2l1idrifpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginphone",
+            "certificate_hash": "43e20a16963150fc576e53f2e69705f04b571a17"
+          }
+        },
+        {
+          "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gfs39I4soH3EvfACoSNGSOYajqnaYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088195371052:android:2a6ea8b55b0f754665f189",
+        "android_client_info": {
+          "package_name": "com.example.phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088195371052-cd8alt6k8o4c3gm92ejb02vim8o7pbiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone",
+            "certificate_hash": "63e8123e161aec0844f8964a6a4429338b0d2720"
+          }
+        },
+        {
+          "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gfs39I4soH3EvfACoSNGSOYajqnaYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088195371052:android:50a2bf89c3715cc065f189",
+        "android_client_info": {
+          "package_name": "com.example.roommet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088195371052-auk4r1mllpb6i7s6ajno49r72miruo9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roommet",
+            "certificate_hash": "63e8123e161aec0844f8964a6a4429338b0d2720"
+          }
+        },
+        {
+          "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gfs39I4soH3EvfACoSNGSOYajqnaYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088195371052:android:edbbc06f06fc03e965f189",
+        "android_client_info": {
+          "package_name": "com.example.roommetowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088195371052-jr4im1egnu0au4pcct906r9ci7dij2fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roommetowner",
+            "certificate_hash": "63e8123e161aec0844f8964a6a4429338b0d2720"
+          }
+        },
+        {
+          "client_id": "1088195371052-sr23uhe2hsmcvjtfj1sbhf7bao3ak06r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roommetowner",
+            "certificate_hash": "43e20a16963150fc576e53f2e69705f04b571a17"
+          }
+        },
+        {
+          "client_id": "1088195371052-ouevtsip0ddurv3jfuku8hq5gbk5e7ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roommetowner",
+            "certificate_hash": "2756586aa40928b30bbf8de442616af1afa82e2f"
+          }
+        },
+        {
+          "client_id": "1088195371052-mu83g75bogk0o2bqks4tsb6kev6m8m04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roommetowner",
+            "certificate_hash": "363376ca217343361656f0601c1c03635fe98d0b"
+          }
+        },
+        {
+          "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gfs39I4soH3EvfACoSNGSOYajqnaYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088195371052:android:3e8fe278335bbb6d65f189",
+        "android_client_info": {
+          "package_name": "com.uh.fightcovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gfs39I4soH3EvfACoSNGSOYajqnaYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088195371052-orevjqr3kjtm12505p0vr84sc1u50fcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

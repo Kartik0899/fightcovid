@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coooo"
+    tools:context=".ui.home.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/foodreq"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/roundbutton"
+                android:layout_marginBottom="16dp"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="16dp"
+                android:textAllCaps="false"
+                android:layout_marginRight="8dp"
+                android:text="Request for food" />
+
+            <Button
+                android:id="@+id/shelterrr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/roundbutton"
+                android:layout_marginBottom="16dp"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="16dp"
+                android:textAllCaps="false"
+                android:layout_marginRight="8dp"
+                android:text="Request for shelter" />
+
+            <Button
+                android:id="@+id/symptom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/roundbutton"
+                android:layout_marginBottom="16dp"
+                android:textAllCaps="false"
+                android:layout_marginLeft="16dp"
+                android:textColor="#ffffff"
+                android:layout_marginRight="8dp"
+                android:text="Check symptoms" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/whoupdates"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/roundbutton"
+                android:layout_marginLeft="8dp"
+                android:textColor="#ffffff"
+                android:layout_marginRight="16dp"
+                android:textAllCaps="false"
+                android:layout_marginBottom="16dp"
+                android:text="WHO covid updates" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:textColor="#ffffff"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp"
+                android:textAllCaps="false"
+                android:background="@drawable/roundbutton"
+                android:text="Donate" />
+
+            <Button
+                android:id="@+id/dailyypdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/roundbutton"
+                android:text="City wise updates (INDIA)"/>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
